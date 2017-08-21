@@ -12,7 +12,8 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "jquery": "^3.2.1",
-    "toastr": "^2.1.2"
+    "toastr": "^2.1.2",
+    "webrtc-adapter": "^4.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.24.1",
