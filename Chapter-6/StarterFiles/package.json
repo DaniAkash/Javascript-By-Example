@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "bootstrap": "^4.0.0-beta",
+    "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "^3.0.0",
+    "popper.js": "^1.11.0",
     "react": "^15.6.1",
     "react-addons-css-transition-group": "^15.6.0",
     "react-addons-transition-group": "^15.6.0",
